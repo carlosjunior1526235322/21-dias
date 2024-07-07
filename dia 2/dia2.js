@@ -1,1 +1,1 @@
-console.log("estou no dia 2")
+console.log("estou no dia 2 aprendendo sobre git")
